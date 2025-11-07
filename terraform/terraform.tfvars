@@ -1,5 +1,5 @@
 # General Settings
-application_name = "DevOps1-pm"
+application_name = "Book-DevOps1-pm"
 environment      = "dev"
 location         = "South Africa North"
 
